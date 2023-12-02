@@ -1,7 +1,7 @@
 # Minesweeper
 small project about Minesweeper
 <h1></h1>
-![download](https://github.com/jamshid-ds/Minesweeper/assets/117648241/e8e41ec4-bbad-4ee7-8add-735ee33590bb)
+![photo](https://github.com/jamshid-ds/Minesweeper/assets/117648241/e8e41ec4-bbad-4ee7-8add-735ee33590bb)
 <h1></h1>
 Let's create numbers for safe squares in Minesweeper!
 💡 If you've used previous versions of Windows, you're familiar with Minesweeper:
